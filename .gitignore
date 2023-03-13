@@ -26,3 +26,5 @@ rabbitmq_with_elixir-*.tar
 /tmp/
 
 /.elixir_ls/
+
+.DS_Store
